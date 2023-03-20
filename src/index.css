@@ -83,11 +83,16 @@ nav{
 
  @media(max-width: 562px){
   .creer{
-    font-size: 70px;
+    font-size: 20px;
   }
 }
 @media(max-width: 375px){
   .creer{
-    font-size: 70px;
+    font-size: 20px;
   }
 } 
+@media(max-width: 371px){
+  .creer{
+    font-size: 10px;
+  }
+}
