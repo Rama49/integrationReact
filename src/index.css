@@ -1,0 +1,122 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+/* =======================Navbar=========================== */
+.bar{
+  background-image: Url("./Components/Image/image-header.jpg");
+  background-position: center;
+   /* background-size: cover; */
+   /* height: 700px; */
+   text-align: center;
+   color: white;
+   font-size: 110px;
+}
+.boutton{
+  border-radius: 100%;
+  border: none;
+  background-color: white;
+}
+.creer{
+  font-size: 89px;
+  /* text-align: center; */
+  /* padding-top: 500px; */
+  
+}
+.do{
+padding-bottom: 300px;
+padding-top: 100px;
+}
+.arrow{
+  /* height: 550px; */
+}
+.more{
+  font-weight: bold;
+  border: none;
+  text-decoration: none;
+}
+ @media (min-width: 375px) {
+  .brand{
+   width: 100%;
+  }
+} 
+/* 
+   @media (min-width: 992px) {
+  .bar{
+    background-image: Url("./Components/Image/image-header.jpg");
+    background-size: cover;
+  }
+} 
+@media (min-width: 768px) {
+  .bar{
+    background-image: Url("./Components/Image/image-header.jpg");
+    background-size: cover;
+  }
+} */
+
+.sun{
+  font-size: 30px;
+}
+nav{
+  font-size: 25px;
+}
+/* .creer{
+  pa
+} */
+.bg{
+  width: 100%;
+  /* background-color: white; */
+};
+.nnn{
+  background-color:red;
+}
+.titlebrand{
+  font-size: 50px;
+}
+.parabrand{
+  font-size: 21.88px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.titlebrande{
+  font-size: 50px;
+}
+.parabranded{
+  font-size: 28px;
+}
+.brd{
+  width: 100%;
+}
+.graph{
+  background-image: url('./Components/Image/image-graphic-design.jpg');
+  /* background-size: cover; */
+  background-position: center;
+  padding-top: 450px;
+   /* background-color: rgba(130,201,187,255); */
+}
+.great{
+
+}
+.graphy{
+  background-image: url('./Components/Image/image-photography.jpg');
+  background-position: center;
+  padding-top: 450px;
+}
+.radi{
+  border-radius: 50%;
+  /* width: 60px; */
+}
+.foot{
+  text-decoration: none;
+}
+.foote{
+  background-color: #95d4c6;
+}
