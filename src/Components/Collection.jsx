@@ -11,11 +11,11 @@ const Collection = () => {
         <div className="row m-0 p-0">
             <div data-aos="zoom-in-down" className="col-lg-6 col-sm-12 col-md-12 graph text-center">
                 <h2 className="">Graphic Design</h2>
-                <p className="mt-5 great">Great design makes you memorables. We deliver artwork that underscores your brand message and captures potential clients' attention</p>
+                <p className="mb-5 px-5 mx-5 great">Great design makes you memorables. We deliver artwork that underscores your brand message and captures potential clients' attention</p>
             </div>
             <div data-aos="zoom-in-down" className="col-lg-6 col-sm-12 col-md-12 graphy text-center">
                 <h2>Photography</h2>
-                <p className="mt-5">Increase your credibility by getting the most stunning high-quality photos that improve your business image.</p>
+                <p className="mx-5 px-5">Increase your credibility by getting the most stunning high-quality photos that improve your business image.</p>
             </div>
         </div>
     )

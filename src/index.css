@@ -15,8 +15,6 @@ code {
 .bar{
   background-image: Url("./Components/Image/image-header.jpg");
   background-position: center;
-   /* background-size: cover; */
-   /* height: 700px; */
    text-align: center;
    color: white;
    font-size: 110px;
@@ -28,66 +26,31 @@ code {
 }
 .creer{
   font-size: 89px;
-  /* text-align: center; */
-  /* padding-top: 500px; */
-  
 }
 .do{
 padding-bottom: 300px;
 padding-top: 100px;
-}
-.arrow{
-  /* height: 550px; */
 }
 .more{
   font-weight: bold;
   border: none;
   text-decoration: none;
 }
- @media (min-width: 375px) {
-  .brand{
-   width: 100%;
-  }
-} 
-/* 
-   @media (min-width: 992px) {
-  .bar{
-    background-image: Url("./Components/Image/image-header.jpg");
-    background-size: cover;
-  }
-} 
-@media (min-width: 768px) {
-  .bar{
-    background-image: Url("./Components/Image/image-header.jpg");
-    background-size: cover;
-  }
-} */
-
 .sun{
   font-size: 30px;
 }
 nav{
   font-size: 25px;
 }
-/* .creer{
-  pa
-} */
-.bg{
-  width: 100%;
-  /* background-color: white; */
-};
-.nnn{
-  background-color:red;
-}
 .titlebrand{
-  font-size: 50px;
+  font-size: 70px;
 }
 .parabrand{
   font-size: 21.88px;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .titlebrande{
-  font-size: 50px;
+  font-size: 70px;
 }
 .parabranded{
   font-size: 28px;
@@ -100,10 +63,6 @@ nav{
   /* background-size: cover; */
   background-position: center;
   padding-top: 450px;
-   /* background-color: rgba(130,201,187,255); */
-}
-.great{
-
 }
 .graphy{
   background-image: url('./Components/Image/image-photography.jpg');
@@ -112,7 +71,7 @@ nav{
 }
 .radi{
   border-radius: 50%;
-  /* width: 60px; */
+  width: 60px;
 }
 .foot{
   text-decoration: none;
@@ -120,3 +79,15 @@ nav{
 .foote{
   background-color: #95d4c6;
 }
+
+
+ @media(max-width: 562px){
+  .creer{
+    font-size: 70px;
+  }
+}
+@media(max-width: 375px){
+  .creer{
+    font-size: 70px;
+  }
+} 

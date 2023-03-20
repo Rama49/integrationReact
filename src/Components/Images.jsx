@@ -6,7 +6,7 @@ const Images = () => {
     return(
         <section>
             <div className="row text-center">
-            <h1 className="my-5">Clients testimonials</h1>
+            <h1 className="my-5 testi">Clients testimonials</h1>
             <div className="col-lg-4 col-sm-12 col-md-12 ">
                 <img src={emili} className="img-fluid radi mb-5" />
                 <p className="mb-5 px-5 mx-5">We put our trust in Sunnyside and they delivered, making sure our needs were met and deadlines were always hit. </p>
