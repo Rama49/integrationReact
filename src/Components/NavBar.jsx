@@ -19,11 +19,11 @@ import 'aos/dist/aos.css';
           </Navbar.Toggle> 
           <Navbar.Collapse id="basic-navbar-nav">
              <Nav className="ms-auto mt-5 ">
-              <Nav.Link href="#home"><span className='text-white ms-2'>Home</span></Nav.Link>
+               <Nav.Link href="#home"><span className='text-white ms-2'>Home</span></Nav.Link>
                <Nav.Link href="#skills" ><span className='text-white ms-2'>Skills</span></Nav.Link>
                <Nav.Link href="#projects" ><span className='text-white me-2'>Projects</span></Nav.Link>
                <a href="#">
-                <button className='boutton '>Connect</button>
+                <button className='boutton bg-none'>Connect</button>
                </a>
              </Nav>
           </Navbar.Collapse>

@@ -20,10 +20,12 @@ code {
    font-size: 110px;
 }
 .boutton{
-  border-radius: 100%;
   border: none;
-  background-color: white;
-}
+  border-radius: 100%;
+  color: white;
+  margin-top: 5px;
+  background-color: #3ebfff
+} 
 .creer{
   font-size: 89px;
 }
