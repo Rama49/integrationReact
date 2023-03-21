@@ -9,9 +9,9 @@ const Stand = () => {
             </div>
             </div>
             <div className="col-lg-6 col-sm-12 col-md-12 p-5 ">
-                <h1 className=' titlebrande m-5'>Stand out to the rigth audience</h1>
-                <p className="parabrand m-5">Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we'll build and extends your brand in digital places. </p>
-                <a href="#" className="m-5 mb-5 more text-dark">LEARN MORE</a>
+                <h1 className=' titlebrande pb-5'>Stand out to the rigth audience</h1>
+                <p className="parabrand pb-5">Using a collaborative formula of designers, researchers, photographers, videographers, and copywriters, we'll build and extends your brand in digital places. </p>
+                <a href="#" className=" mb-5 more text-dark">LEARN MORE</a>
             </div>
         </div>
     ) 

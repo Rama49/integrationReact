@@ -60,18 +60,19 @@ nav{
 }
 .graph{
   background-image: url('./Components/Image/image-graphic-design.jpg');
-  /* background-size: cover; */
+  background-size: cover;
   background-position: center;
   padding-top: 450px;
 }
 .graphy{
   background-image: url('./Components/Image/image-photography.jpg');
   background-position: center;
+  background-size: cover;
   padding-top: 450px;
 }
 .radi{
   border-radius: 50%;
-  width: 60px;
+  width: 150px;
 }
 .foot{
   text-decoration: none;
@@ -85,8 +86,14 @@ nav{
   .creer{
     font-size: 20px;
   }
+  .radi{
+    width: auto;
+  }
 }
 @media(min-width: 375px){
+  .radi{
+    width: auto;
+  }
   .creer{
     font-size: 20px;
   }
@@ -101,8 +108,14 @@ nav{
   .titlebrande{
     font-size: 30px;
   }
+  .radi{
+    width: auto;
+  }
 }
 @media(min-width: 360px){
+  .radi{
+    width: auto;
+  }
   .titlebrand{
     font-size: 30px;
   }
@@ -111,6 +124,9 @@ nav{
   }
 }
 @media(min-width: 324px){
+  .radi{
+    width: auto;
+  }
   .titlebrand{
     font-size: 20px;
   }
@@ -119,6 +135,9 @@ nav{
   }
 }
 @media(min-width: 300px){
+  .radi{
+    width: auto;
+  }
   .titlebrand{
     font-size: 20px;
   }
@@ -127,6 +146,9 @@ nav{
   }
 }
 @media(min-width: 272px){
+  .radi{
+    width: auto;
+  }
   .titlebrand{
     font-size: 20px;
   }
@@ -135,6 +157,9 @@ nav{
   }
 }
 @media(min-width: 252px){
+  .radi{
+    width: auto;
+  }
   .titlebrand{
     font-size: 20px;
   }
