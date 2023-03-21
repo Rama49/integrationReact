@@ -8,13 +8,13 @@ const Footer = () => {
         <section className="foote">
             <h1 className="text-center mb-5 pt-5">Sunnysine</h1>
             <div className="row mt-5 justify-content-center">
-                <div className="col-1">
+                <div className="col-lg-1 col-2">
                     <a href="#" className="text-dark foot">About</a>
                 </div>
-                <div className="col-1">
+                <div className="col-lg-1 col-2">
                 <a href="#" className="text-dark foot">Services</a>
                 </div>
-                <div className="col-1">
+                <div className="col-lg-1 col-2">
                 <a href="#" className="text-dark foot">Projects</a>
                 </div>
             </div>
